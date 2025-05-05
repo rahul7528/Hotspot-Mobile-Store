@@ -1,11 +1,11 @@
 # Hotspot-Mobile-Store
 
-📊 Hotspot Mobile Store – Sales Analysis Dashboard (Power BI)
-🔍 Project Overview:
+# 📊 Hotspot Mobile Store – Sales Analysis Dashboard (Power BI)
+# 🔍 Project Overview:
 This Power BI project analyzes the sales performance of Hotspot Mobile Store, a mobile retail chain operating across multiple cities. The dashboard provides a comprehensive view of sales trends, customer behavior, product popularity, and transaction patterns, helping stakeholders make informed business decisions.
 
 
-📁 Key Insights Provided:
+## 📁 Key Insights Provided:
 Total Sales & Units Sold: High-level KPIs showing overall revenue and volume.
 
 Monthly Sales Trend: Column chart displaying month-wise total sales, identifying seasonality or performance dips/spikes.
@@ -14,7 +14,7 @@ Top-Selling Mobile Models: Visualizes the most popular phone models based on tot
 
 Brand & City Performance: Breakdowns of units sold by mobile brand and by store location.
 
-Customer Metrics:
+## Customer Metrics:
 
 Average Sales per Customer
 
@@ -27,7 +27,7 @@ Last Month's Sales: Automatically identifies and displays sales from the latest 
 Payment Method Distribution: Donut chart highlighting customer preferences for UPI, cash, cards, etc.
 
 
-📌 Features:
+## 📌 Features:
 Slicers for dynamic filtering by brand, model, month, and year.
 
 Responsive Cards for key performance metrics.
@@ -39,7 +39,7 @@ Clean, user-friendly layout with consistent color theme and hierarchy.
 Built-in data model using OrderDate derived from separate year, month, and day columns.
 
 
-📂 Tools Used:
+## 📂 Tools Used:
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
@@ -49,7 +49,7 @@ Power Query (M Language)
 Custom Visual Formatting & UX Enhancements
 
 
-✅ Use Case:
+## ✅ Use Case:
 This dashboard helps business managers and sales executives:
 
 Monitor real-time sales performance.
