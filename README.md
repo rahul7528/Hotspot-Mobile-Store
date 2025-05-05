@@ -1,7 +1,7 @@
 # Hotspot-Mobile-Store
 
-# 📊 Hotspot Mobile Store – Sales Analysis Dashboard (Power BI)
-# 🔍 Project Overview:
+## 📊 Hotspot Mobile Store – Sales Analysis Dashboard (Power BI)
+## 🔍 Project Overview:
 This Power BI project analyzes the sales performance of Hotspot Mobile Store, a mobile retail chain operating across multiple cities. The dashboard provides a comprehensive view of sales trends, customer behavior, product popularity, and transaction patterns, helping stakeholders make informed business decisions.
 
 
